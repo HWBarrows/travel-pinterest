@@ -10,7 +10,8 @@ header {
     text-align: center;
     background-image: linear-gradient(50deg, aqua, pink);
     color: rgb(167, 136, 80);
-    padding-top: 20px;
+   padding: 5px;
+    
 }
 
 
@@ -20,6 +21,7 @@ header {
 
  .nav-bar {
    background-image: linear-gradient(50deg, aqua, pink);
+  padding: 2px;
    
     
  }
