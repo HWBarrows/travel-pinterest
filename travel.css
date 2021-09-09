@@ -162,3 +162,17 @@ body {
     border: solid 1px white;
     
 }
+
+/* ////Footer\\\\\ */
+
+footer{
+    width: 100%;
+
+    background-image: linear-gradient(to left, aqua, pink);
+}
+
+.rights{
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+}
