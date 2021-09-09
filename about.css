@@ -20,7 +20,6 @@ header {
 
  .nav-bar {
    background-image: linear-gradient(50deg, aqua, pink);
-   
     
  }
 
@@ -51,11 +50,3 @@ header {
      position: relative;
      left:75%;
  }
-
- #mainsection {
-     margin-top: 40px;
- }
-
-
-
-
