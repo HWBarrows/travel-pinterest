@@ -124,6 +124,7 @@ body {
 
 #subsection {
     margin-left: 2.5vw;
+    margin-top: 1%;
 }
 
 .box {
@@ -132,6 +133,7 @@ body {
     display: inline-block;
     box-sizing: border-box;
     vertical-align: top;
+    margin-top: 5%;
     margin: 5px;
     border-radius: 15px;
     
@@ -157,10 +159,31 @@ body {
     background-position: bottom;
 }
 
+.hidden {
+    color: rgba(167, 137, 80, 0);
+}
 
 .hidden:hover {
     display:block;
+    width: 40%;
+    background-color: pink;
+    margin-left: 30%;
+    color: rgb(167, 137, 80);
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* ////Footer\\\\\ */
+
+footer{
     width: 100%;
-    border: solid 1px white;
-    
+
+    background-image: linear-gradient(to left, aqua, pink);
+}
+
+.rights{
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
 }
